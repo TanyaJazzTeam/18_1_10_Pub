@@ -1,0 +1,41 @@
+{
+  "squadName": "escuadrón de superhéroes",
+  "homeTown": "ciudad Metro",
+  "formed": 2016,
+  "secretBase": "Súper torre",
+  "active": "verdadero",
+  "members": [
+    {
+      "name": "Hombre Molécula",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Resistencia a la radiación",
+        "volviéndose pequeño",
+        "Explosión de radiación"
+      ]
+    },
+    {
+      "name": "Señora Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Ponche de un millón de toneladas",
+        "Resistencia al daño",
+        "Reflejos sobrehumanos"
+      ]
+    },
+    {
+      "name": "Llama eterna",
+      "age": 1000000,
+      "secretIdentity": "Desconocido",
+      "powers": [
+        "Inmortalidad",
+        "Inmunidad al calor",
+        "Infierno",
+        "Teletransportación",
+        "viaje interdimensional"
+      ]
+    }
+  ]
+}
