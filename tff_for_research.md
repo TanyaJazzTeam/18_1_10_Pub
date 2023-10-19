@@ -8,7 +8,7 @@ page describes the main concepts and components that are relevant for research
 simulations, as well as detailed guidance for conducting different kinds of
 research in TFF.
 
-## The typical structure of research code in TFFdearf
+## The typical structure of research code in TFFdearf лшг
 
 A research FL simulation implemented in TFF typically consists of three main
 types of logic.
