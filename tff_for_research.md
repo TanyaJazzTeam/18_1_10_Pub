@@ -4,6 +4,9 @@
 
 # Klo
 
+![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
+
+
 TFF is an extensible, powerful framework for conducting federated learning (FL)
 research by simulating federated computations on realistic proxy datasets. This
 page describes the main concepts and components that are relevant for research
