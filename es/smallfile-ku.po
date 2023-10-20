@@ -42,6 +42,10 @@ msgstr "AMP HTML Specification2"
 msgid "AMP Overview"
 msgstr "AMP Overview2"
 
+#: /views/partials/footer.j2:77
+msgid "AMP B"
+msgstr "AMP B"
+
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
 msgstr "AMP for Email Specification2"
