@@ -1,0 +1,28 @@
+---
+name: Iván Katkov
+job: Redactor técnico
+skill: Normal
+employed: verdadero
+favorite food:
+- Doshik
+- Pivchik
+- Kartofan4ik
+- Ogur4iki
+languages:
+  python:
+    level: Júnior
+    libraries:
+    - pandas
+    - NumPy
+    - Pytorch
+    frameworks:
+    - Matraz
+    - Django
+  rust:
+    level: pre-junior
+    libraries: Ninguno
+    frameworks: Ninguno
+  Javascript:
+    level: pre-junior
+    libraries: Ninguno
+    frameworks: Angular
