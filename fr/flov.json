@@ -1,0 +1,38 @@
+{
+  "squadName": "Escouade de super héros",
+  "formed": 2016,
+  "secretBase": "Super tour",
+  "members": [
+    {
+      "name": "Homme molécule",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Résistance aux radiations",
+        "Devenir petit",
+        "Explosion de radiations"
+      ]
+    },
+    {
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Un million de tonnes de punch",
+        null,
+        "Des réflexes surhumains"
+      ]
+    },
+    {
+      "name": "Flamme éternelle",
+      "age": 1000000,
+      "secretIdentity": "Inconnu",
+      "powers": [
+        "Immortalité",
+        "Immunité à la chaleur",
+        "Enfer",
+        "Téléportation",
+        "Voyage interdimensionnel"
+      ]
+    }
+  ]
+}
