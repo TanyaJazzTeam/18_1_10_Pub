@@ -1,7 +1,9 @@
 {
   "squadName": "Escouade de super héros",
+  "homeTown": "ville métropolitaine",
   "formed": 2016,
   "secretBase": "Super tour",
+  "active": "vrai",
   "members": [
     {
       "name": "Homme molécule",
@@ -14,11 +16,12 @@
       ]
     },
     {
+      "name": "Madame Uppercut",
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "powers": [
         "Un million de tonnes de punch",
-        null,
+        "Résistance aux dégâts",
         "Des réflexes surhumains"
       ]
     },
